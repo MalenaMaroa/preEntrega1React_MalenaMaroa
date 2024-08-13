@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Abbey Road",
+        "artist": "The Beatles",
+        "category": "Rock",
+        "img": "https://example.com/images/abbey-road.jpg",
+        "description": "The Beatles' iconic album featuring hits like 'Come Together' and 'Something'.",
+        "release_year": 1969,
+        "tracks": 17
+    },
+    {
+        "id": 2,
+        "name": "The Dark Side of the Moon",
+        "artist": "Pink Floyd",
+        "category": "Rock",
+        "img": "https://example.com/images/dark-side-of-the-moon.jpg",
+        "description": "A concept album that explores themes of conflict, greed, and mental illness.",
+        "release_year": 1973,
+        "tracks": 10
+    },
+    {
+        "id": 3,
+        "name": "Thriller",
+        "artist": "Michael Jackson",
+        "category": "Pop",
+        "img": "https://example.com/images/thriller.jpg",
+        "description": "The best-selling album of all time, featuring the hits 'Thriller' and 'Billie Jean'.",
+        "release_year": 1982,
+        "tracks": 9
+    },
+    {
+        "id": 4,
+        "name": "Back in Black",
+        "artist": "AC/DC",
+        "category": "Rock",
+        "img": "https://example.com/images/back-in-black.jpg",
+        "description": "A hard rock album that marked AC/DC's comeback after the death of lead singer Bon Scott.",
+        "release_year": 1980,
+        "tracks": 10
+    },
+    {
+        "id": 5,
+        "name": "Rumours",
+        "artist": "Fleetwood Mac",
+        "category": "Rock",
+        "img": "https://example.com/images/rumours.jpg",
+        "description": "An album full of hits, reflecting the personal turmoil within the band during its creation.",
+        "release_year": 1977,
+        "tracks": 11
+    },
+    {
+        "id": 6,
+        "name": "The Wall",
+        "artist": "Pink Floyd",
+        "category": "Rock",
+        "img": "https://example.com/images/the-wall.jpg",
+        "description": "A rock opera that tells the story of a rock star's descent into madness.",
+        "release_year": 1979,
+        "tracks": 26
+    },
+    {
+        "id": 7,
+        "name": "Born in the U.S.A.",
+        "artist": "Bruce Springsteen",
+        "category": "Rock",
+        "img": "https://example.com/images/born-in-the-usa.jpg",
+        "description": "An album that blends rock with heartland themes, featuring the iconic title track.",
+        "release_year": 1984,
+        "tracks": 12
+    },
+    {
+        "id": 8,
+        "name": "Hotel California",
+        "artist": "Eagles",
+        "category": "Rock",
+        "img": "https://example.com/images/hotel-california.jpg",
+        "description": "A classic rock album with the legendary title track 'Hotel California'.",
+        "release_year": 1976,
+        "tracks": 9
+    },
+    {
+        "id": 9,
+        "name": "Like a Prayer",
+        "artist": "Madonna",
+        "category": "Pop",
+        "img": "https://example.com/images/like-a-prayer.jpg",
+        "description": "A pop album that combines religious themes with dance-pop hits.",
+        "release_year": 1989,
+        "tracks": 11
+    },
+    {
+        "id": 10,
+        "name": "Nevermind",
+        "artist": "Nirvana",
+        "category": "Rock",
+        "img": "https://example.com/images/nevermind.jpg",
+        "description": "The album that brought grunge to the mainstream, featuring the hit 'Smells Like Teen Spirit'.",
+        "release_year": 1991,
+        "tracks": 12
+    }
+]
